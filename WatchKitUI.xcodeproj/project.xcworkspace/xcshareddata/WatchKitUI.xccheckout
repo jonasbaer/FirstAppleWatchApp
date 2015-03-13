@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A7B74114-CEC4-4A60-8371-67BF4A939E28</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WatchKitUI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B7027182DA945B66F81E83C86038527D2529C9F</key>
+		<string>https://github.com/jonasbaer/FirstAppleWatchApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WatchKitUI.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B7027182DA945B66F81E83C86038527D2529C9F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jonasbaer/FirstAppleWatchApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B7027182DA945B66F81E83C86038527D2529C9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B7027182DA945B66F81E83C86038527D2529C9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WatchKitUI</string>
+		</dict>
+	</array>
+</dict>
+</plist>

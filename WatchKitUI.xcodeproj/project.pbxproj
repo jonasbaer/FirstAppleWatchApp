@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE0026B71AB29762005690EE /* ButtonInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0026B61AB29762005690EE /* ButtonInterfaceController.swift */; };
 		EEAA10451AB1979C00C0FAC7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEAA10441AB1979C00C0FAC7 /* AppDelegate.swift */; };
 		EEAA10471AB1979C00C0FAC7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEAA10461AB1979C00C0FAC7 /* ViewController.swift */; };
 		EEAA104A1AB1979C00C0FAC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10481AB1979C00C0FAC7 /* Main.storyboard */; };
@@ -98,6 +99,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		EE0026B61AB29762005690EE /* ButtonInterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonInterfaceController.swift; sourceTree = "<group>"; };
 		EEAA103F1AB1979C00C0FAC7 /* WatchKitUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchKitUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEAA10431AB1979C00C0FAC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EEAA10441AB1979C00C0FAC7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -249,6 +251,7 @@
 				EEAA106A1AB1981700C0FAC7 /* Supporting Files */,
 				EEAA10B21AB1B52C00C0FAC7 /* Resources */,
 				EEAA10891AB19A0D00C0FAC7 /* LabelInterfaceController.swift */,
+				EE0026B61AB29762005690EE /* ButtonInterfaceController.swift */,
 				EEAA10881AB19A0D00C0FAC7 /* WatchKitUI WatchKit Extension-Bridging-Header.h */,
 			);
 			path = "WatchKitUI WatchKit Extension";
@@ -568,6 +571,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EEAA108A1AB19A0D00C0FAC7 /* LabelInterfaceController.swift in Sources */,
+				EE0026B71AB29762005690EE /* ButtonInterfaceController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -830,6 +834,7 @@
 				EEAA10601AB1979C00C0FAC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EEAA10611AB1979C00C0FAC7 /* Build configuration list for PBXNativeTarget "WatchKitUITests" */ = {
 			isa = XCConfigurationList;
@@ -838,6 +843,7 @@
 				EEAA10631AB1979C00C0FAC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EEAA10811AB1981700C0FAC7 /* Build configuration list for PBXNativeTarget "WatchKitUI WatchKit App" */ = {
 			isa = XCConfigurationList;
@@ -846,6 +852,7 @@
 				EEAA10831AB1981700C0FAC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EEAA10841AB1981700C0FAC7 /* Build configuration list for PBXNativeTarget "WatchKitUI WatchKit Extension" */ = {
 			isa = XCConfigurationList;
@@ -854,6 +861,7 @@
 				EEAA10861AB1981700C0FAC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

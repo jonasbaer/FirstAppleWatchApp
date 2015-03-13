@@ -31,7 +31,7 @@ class LabelInterfaceController: WKInterfaceController {
         }
 
         var boldFont = UIFont(name: "Exo-Bold", size: 15.5)!
-        var attributesDictionary = [NSFontAttributeName : boldFont] // create Dictionary - somehow similar to Arrrays ;)
+        var attributesDictionary = [NSFontAttributeName : boldFont, NSForegroundColorAttributeName : UIColor.blueColor()] // create Dictionary - somehow similar to Arrrays ;)
         var attributedString = NSAttributedString(string: "Hello Class", attributes: attributesDictionary)
 
         myNewLabel.setAttributedText(attributedString)
