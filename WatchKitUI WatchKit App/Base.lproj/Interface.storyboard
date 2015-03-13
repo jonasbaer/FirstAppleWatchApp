@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="6751" systemVersion="14A389" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="AgC-eL-Hgc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="3737"/>
+    </dependencies>
+    <scenes>
+        <!--Label Interface Controller-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller id="AgC-eL-Hgc" customClass="LabelInterfaceController" customModule="WatchKitUI_WatchKit_Extension">
+                    <items>
+                        <label width="136" height="79.5" alignment="left" alpha="0.69999999999999973" text="This is my label with a long text" textAlignment="center" numberOfLines="0" id="AQ2-zy-VTK">
+                            <color key="textColor" red="0.30464820884674043" green="0.33438722260615733" blue="0.9294782366071429" alpha="1" colorSpace="calibratedRGB"/>
+                            <variation key="device=watch38mm" text="38mm Label">
+                                <color key="textColor" red="0.16775343249999999" green="0.1857272425" blue="0.50388299849999996" alpha="1" colorSpace="calibratedRGB"/>
+                            </variation>
+                            <variation key="device=watch42mm" text="42mm Label">
+                                <color key="textColor" red="0.89713541669999997" green="0.53964002420000001" blue="0.16043607930000001" alpha="1" colorSpace="calibratedRGB"/>
+                            </variation>
+                        </label>
+                    </items>
+                    <connections>
+                        <outlet property="myNewLabel" destination="AQ2-zy-VTK" id="5Ho-Ah-5fP"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="245" y="318"/>
+        </scene>
+    </scenes>
+</document>

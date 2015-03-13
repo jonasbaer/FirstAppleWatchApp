@@ -13,6 +13,50 @@
 		EEAA104C1AB1979C00C0FAC7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEAA104B1AB1979C00C0FAC7 /* Images.xcassets */; };
 		EEAA104F1AB1979C00C0FAC7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EEAA104D1AB1979C00C0FAC7 /* LaunchScreen.xib */; };
 		EEAA105B1AB1979C00C0FAC7 /* WatchKitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEAA105A1AB1979C00C0FAC7 /* WatchKitUITests.swift */; };
+		EEAA106F1AB1981700C0FAC7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEAA106E1AB1981700C0FAC7 /* Images.xcassets */; };
+		EEAA10731AB1981700C0FAC7 /* WatchKitUI WatchKit App.app in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10721AB1981700C0FAC7 /* WatchKitUI WatchKit App.app */; };
+		EEAA107B1AB1981700C0FAC7 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10791AB1981700C0FAC7 /* Interface.storyboard */; };
+		EEAA107D1AB1981700C0FAC7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEAA107C1AB1981700C0FAC7 /* Images.xcassets */; };
+		EEAA10801AB1981700C0FAC7 /* WatchKitUI WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = EEAA10681AB1981700C0FAC7 /* WatchKitUI WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		EEAA108A1AB19A0D00C0FAC7 /* LabelInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEAA10891AB19A0D00C0FAC7 /* LabelInterfaceController.swift */; };
+		EEAA109F1AB1B4F900C0FAC7 /* Exo-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA108C1AB1B4F900C0FAC7 /* Exo-Black.otf */; };
+		EEAA10A01AB1B4F900C0FAC7 /* Exo-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA108D1AB1B4F900C0FAC7 /* Exo-BlackItalic.otf */; };
+		EEAA10A11AB1B4F900C0FAC7 /* Exo-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA108E1AB1B4F900C0FAC7 /* Exo-Bold.otf */; };
+		EEAA10A21AB1B4F900C0FAC7 /* Exo-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA108F1AB1B4F900C0FAC7 /* Exo-BoldItalic.otf */; };
+		EEAA10A31AB1B4F900C0FAC7 /* Exo-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10901AB1B4F900C0FAC7 /* Exo-ExtraBold.otf */; };
+		EEAA10A41AB1B4F900C0FAC7 /* Exo-ExtraBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10911AB1B4F900C0FAC7 /* Exo-ExtraBoldItalic.otf */; };
+		EEAA10A51AB1B4F900C0FAC7 /* Exo-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10921AB1B4F900C0FAC7 /* Exo-ExtraLight.otf */; };
+		EEAA10A61AB1B4F900C0FAC7 /* Exo-ExtraLightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10931AB1B4F900C0FAC7 /* Exo-ExtraLightItalic.otf */; };
+		EEAA10A71AB1B4F900C0FAC7 /* Exo-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10941AB1B4F900C0FAC7 /* Exo-Italic.otf */; };
+		EEAA10A81AB1B4F900C0FAC7 /* Exo-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10951AB1B4F900C0FAC7 /* Exo-Light.otf */; };
+		EEAA10A91AB1B4F900C0FAC7 /* Exo-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10961AB1B4F900C0FAC7 /* Exo-LightItalic.otf */; };
+		EEAA10AA1AB1B4F900C0FAC7 /* Exo-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10971AB1B4F900C0FAC7 /* Exo-Medium.otf */; };
+		EEAA10AB1AB1B4F900C0FAC7 /* Exo-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10981AB1B4F900C0FAC7 /* Exo-MediumItalic.otf */; };
+		EEAA10AC1AB1B4F900C0FAC7 /* Exo-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10991AB1B4F900C0FAC7 /* Exo-Regular.otf */; };
+		EEAA10AD1AB1B4F900C0FAC7 /* Exo-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA109A1AB1B4F900C0FAC7 /* Exo-SemiBold.otf */; };
+		EEAA10AE1AB1B4F900C0FAC7 /* Exo-SemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA109B1AB1B4F900C0FAC7 /* Exo-SemiBoldItalic.otf */; };
+		EEAA10AF1AB1B4F900C0FAC7 /* Exo-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA109C1AB1B4F900C0FAC7 /* Exo-Thin.otf */; };
+		EEAA10B01AB1B4F900C0FAC7 /* Exo-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA109D1AB1B4F900C0FAC7 /* Exo-ThinItalic.otf */; };
+		EEAA10B11AB1B4F900C0FAC7 /* SIL Open Font License.txt in Resources */ = {isa = PBXBuildFile; fileRef = EEAA109E1AB1B4F900C0FAC7 /* SIL Open Font License.txt */; };
+		EEAA10C71AB1B5B100C0FAC7 /* Exo-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10B41AB1B5B100C0FAC7 /* Exo-Black.otf */; };
+		EEAA10C81AB1B5B100C0FAC7 /* Exo-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10B51AB1B5B100C0FAC7 /* Exo-BlackItalic.otf */; };
+		EEAA10C91AB1B5B100C0FAC7 /* Exo-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10B61AB1B5B100C0FAC7 /* Exo-Bold.otf */; };
+		EEAA10CA1AB1B5B100C0FAC7 /* Exo-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10B71AB1B5B100C0FAC7 /* Exo-BoldItalic.otf */; };
+		EEAA10CB1AB1B5B100C0FAC7 /* Exo-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10B81AB1B5B100C0FAC7 /* Exo-ExtraBold.otf */; };
+		EEAA10CC1AB1B5B100C0FAC7 /* Exo-ExtraBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10B91AB1B5B100C0FAC7 /* Exo-ExtraBoldItalic.otf */; };
+		EEAA10CD1AB1B5B100C0FAC7 /* Exo-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10BA1AB1B5B100C0FAC7 /* Exo-ExtraLight.otf */; };
+		EEAA10CE1AB1B5B100C0FAC7 /* Exo-ExtraLightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10BB1AB1B5B100C0FAC7 /* Exo-ExtraLightItalic.otf */; };
+		EEAA10CF1AB1B5B100C0FAC7 /* Exo-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10BC1AB1B5B100C0FAC7 /* Exo-Italic.otf */; };
+		EEAA10D01AB1B5B100C0FAC7 /* Exo-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10BD1AB1B5B100C0FAC7 /* Exo-Light.otf */; };
+		EEAA10D11AB1B5B100C0FAC7 /* Exo-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10BE1AB1B5B100C0FAC7 /* Exo-LightItalic.otf */; };
+		EEAA10D21AB1B5B100C0FAC7 /* Exo-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10BF1AB1B5B100C0FAC7 /* Exo-Medium.otf */; };
+		EEAA10D31AB1B5B100C0FAC7 /* Exo-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10C01AB1B5B100C0FAC7 /* Exo-MediumItalic.otf */; };
+		EEAA10D41AB1B5B100C0FAC7 /* Exo-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10C11AB1B5B100C0FAC7 /* Exo-Regular.otf */; };
+		EEAA10D51AB1B5B100C0FAC7 /* Exo-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10C21AB1B5B100C0FAC7 /* Exo-SemiBold.otf */; };
+		EEAA10D61AB1B5B100C0FAC7 /* Exo-SemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10C31AB1B5B100C0FAC7 /* Exo-SemiBoldItalic.otf */; };
+		EEAA10D71AB1B5B100C0FAC7 /* Exo-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10C41AB1B5B100C0FAC7 /* Exo-Thin.otf */; };
+		EEAA10D81AB1B5B100C0FAC7 /* Exo-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10C51AB1B5B100C0FAC7 /* Exo-ThinItalic.otf */; };
+		EEAA10D91AB1B5B100C0FAC7 /* SIL Open Font License.txt in Resources */ = {isa = PBXBuildFile; fileRef = EEAA10C61AB1B5B100C0FAC7 /* SIL Open Font License.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,7 +67,35 @@
 			remoteGlobalIDString = EEAA103E1AB1979C00C0FAC7;
 			remoteInfo = WatchKitUI;
 		};
+		EEAA10741AB1981700C0FAC7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EEAA10371AB1979C00C0FAC7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EEAA10711AB1981700C0FAC7;
+			remoteInfo = "WatchKitUI WatchKit App";
+		};
+		EEAA107E1AB1981700C0FAC7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EEAA10371AB1979C00C0FAC7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EEAA10671AB1981700C0FAC7;
+			remoteInfo = "WatchKitUI WatchKit Extension";
+		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		EEAA10871AB1981700C0FAC7 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				EEAA10801AB1981700C0FAC7 /* WatchKitUI WatchKit Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		EEAA103F1AB1979C00C0FAC7 /* WatchKitUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchKitUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -36,6 +108,53 @@
 		EEAA10541AB1979C00C0FAC7 /* WatchKitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WatchKitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEAA10591AB1979C00C0FAC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EEAA105A1AB1979C00C0FAC7 /* WatchKitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchKitUITests.swift; sourceTree = "<group>"; };
+		EEAA10681AB1981700C0FAC7 /* WatchKitUI WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "WatchKitUI WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EEAA106B1AB1981700C0FAC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEAA106E1AB1981700C0FAC7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		EEAA10721AB1981700C0FAC7 /* WatchKitUI WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WatchKitUI WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EEAA10781AB1981700C0FAC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEAA107A1AB1981700C0FAC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		EEAA107C1AB1981700C0FAC7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		EEAA10881AB19A0D00C0FAC7 /* WatchKitUI WatchKit Extension-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WatchKitUI WatchKit Extension-Bridging-Header.h"; sourceTree = "<group>"; };
+		EEAA10891AB19A0D00C0FAC7 /* LabelInterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LabelInterfaceController.swift; sourceTree = "<group>"; };
+		EEAA108C1AB1B4F900C0FAC7 /* Exo-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Black.otf"; sourceTree = "<group>"; };
+		EEAA108D1AB1B4F900C0FAC7 /* Exo-BlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-BlackItalic.otf"; sourceTree = "<group>"; };
+		EEAA108E1AB1B4F900C0FAC7 /* Exo-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Bold.otf"; sourceTree = "<group>"; };
+		EEAA108F1AB1B4F900C0FAC7 /* Exo-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-BoldItalic.otf"; sourceTree = "<group>"; };
+		EEAA10901AB1B4F900C0FAC7 /* Exo-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ExtraBold.otf"; sourceTree = "<group>"; };
+		EEAA10911AB1B4F900C0FAC7 /* Exo-ExtraBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ExtraBoldItalic.otf"; sourceTree = "<group>"; };
+		EEAA10921AB1B4F900C0FAC7 /* Exo-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ExtraLight.otf"; sourceTree = "<group>"; };
+		EEAA10931AB1B4F900C0FAC7 /* Exo-ExtraLightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ExtraLightItalic.otf"; sourceTree = "<group>"; };
+		EEAA10941AB1B4F900C0FAC7 /* Exo-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Italic.otf"; sourceTree = "<group>"; };
+		EEAA10951AB1B4F900C0FAC7 /* Exo-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Light.otf"; sourceTree = "<group>"; };
+		EEAA10961AB1B4F900C0FAC7 /* Exo-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-LightItalic.otf"; sourceTree = "<group>"; };
+		EEAA10971AB1B4F900C0FAC7 /* Exo-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Medium.otf"; sourceTree = "<group>"; };
+		EEAA10981AB1B4F900C0FAC7 /* Exo-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-MediumItalic.otf"; sourceTree = "<group>"; };
+		EEAA10991AB1B4F900C0FAC7 /* Exo-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Regular.otf"; sourceTree = "<group>"; };
+		EEAA109A1AB1B4F900C0FAC7 /* Exo-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-SemiBold.otf"; sourceTree = "<group>"; };
+		EEAA109B1AB1B4F900C0FAC7 /* Exo-SemiBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-SemiBoldItalic.otf"; sourceTree = "<group>"; };
+		EEAA109C1AB1B4F900C0FAC7 /* Exo-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Thin.otf"; sourceTree = "<group>"; };
+		EEAA109D1AB1B4F900C0FAC7 /* Exo-ThinItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ThinItalic.otf"; sourceTree = "<group>"; };
+		EEAA109E1AB1B4F900C0FAC7 /* SIL Open Font License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SIL Open Font License.txt"; sourceTree = "<group>"; };
+		EEAA10B41AB1B5B100C0FAC7 /* Exo-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Black.otf"; sourceTree = "<group>"; };
+		EEAA10B51AB1B5B100C0FAC7 /* Exo-BlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-BlackItalic.otf"; sourceTree = "<group>"; };
+		EEAA10B61AB1B5B100C0FAC7 /* Exo-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Bold.otf"; sourceTree = "<group>"; };
+		EEAA10B71AB1B5B100C0FAC7 /* Exo-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-BoldItalic.otf"; sourceTree = "<group>"; };
+		EEAA10B81AB1B5B100C0FAC7 /* Exo-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ExtraBold.otf"; sourceTree = "<group>"; };
+		EEAA10B91AB1B5B100C0FAC7 /* Exo-ExtraBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ExtraBoldItalic.otf"; sourceTree = "<group>"; };
+		EEAA10BA1AB1B5B100C0FAC7 /* Exo-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ExtraLight.otf"; sourceTree = "<group>"; };
+		EEAA10BB1AB1B5B100C0FAC7 /* Exo-ExtraLightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ExtraLightItalic.otf"; sourceTree = "<group>"; };
+		EEAA10BC1AB1B5B100C0FAC7 /* Exo-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Italic.otf"; sourceTree = "<group>"; };
+		EEAA10BD1AB1B5B100C0FAC7 /* Exo-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Light.otf"; sourceTree = "<group>"; };
+		EEAA10BE1AB1B5B100C0FAC7 /* Exo-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-LightItalic.otf"; sourceTree = "<group>"; };
+		EEAA10BF1AB1B5B100C0FAC7 /* Exo-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Medium.otf"; sourceTree = "<group>"; };
+		EEAA10C01AB1B5B100C0FAC7 /* Exo-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-MediumItalic.otf"; sourceTree = "<group>"; };
+		EEAA10C11AB1B5B100C0FAC7 /* Exo-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Regular.otf"; sourceTree = "<group>"; };
+		EEAA10C21AB1B5B100C0FAC7 /* Exo-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-SemiBold.otf"; sourceTree = "<group>"; };
+		EEAA10C31AB1B5B100C0FAC7 /* Exo-SemiBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-SemiBoldItalic.otf"; sourceTree = "<group>"; };
+		EEAA10C41AB1B5B100C0FAC7 /* Exo-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-Thin.otf"; sourceTree = "<group>"; };
+		EEAA10C51AB1B5B100C0FAC7 /* Exo-ThinItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo-ThinItalic.otf"; sourceTree = "<group>"; };
+		EEAA10C61AB1B5B100C0FAC7 /* SIL Open Font License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SIL Open Font License.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +172,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		EEAA10651AB1981700C0FAC7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -61,6 +187,8 @@
 			children = (
 				EEAA10411AB1979C00C0FAC7 /* WatchKitUI */,
 				EEAA10571AB1979C00C0FAC7 /* WatchKitUITests */,
+				EEAA10691AB1981700C0FAC7 /* WatchKitUI WatchKit Extension */,
+				EEAA10761AB1981700C0FAC7 /* WatchKitUI WatchKit App */,
 				EEAA10401AB1979C00C0FAC7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -70,6 +198,8 @@
 			children = (
 				EEAA103F1AB1979C00C0FAC7 /* WatchKitUI.app */,
 				EEAA10541AB1979C00C0FAC7 /* WatchKitUITests.xctest */,
+				EEAA10681AB1981700C0FAC7 /* WatchKitUI WatchKit Extension.appex */,
+				EEAA10721AB1981700C0FAC7 /* WatchKitUI WatchKit App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -112,6 +242,115 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		EEAA10691AB1981700C0FAC7 /* WatchKitUI WatchKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				EEAA106E1AB1981700C0FAC7 /* Images.xcassets */,
+				EEAA106A1AB1981700C0FAC7 /* Supporting Files */,
+				EEAA10B21AB1B52C00C0FAC7 /* Resources */,
+				EEAA10891AB19A0D00C0FAC7 /* LabelInterfaceController.swift */,
+				EEAA10881AB19A0D00C0FAC7 /* WatchKitUI WatchKit Extension-Bridging-Header.h */,
+			);
+			path = "WatchKitUI WatchKit Extension";
+			sourceTree = "<group>";
+		};
+		EEAA106A1AB1981700C0FAC7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EEAA106B1AB1981700C0FAC7 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EEAA10761AB1981700C0FAC7 /* WatchKitUI WatchKit App */ = {
+			isa = PBXGroup;
+			children = (
+				EEAA10791AB1981700C0FAC7 /* Interface.storyboard */,
+				EEAA107C1AB1981700C0FAC7 /* Images.xcassets */,
+				EEAA10771AB1981700C0FAC7 /* Supporting Files */,
+				EEAA10DA1AB1B60700C0FAC7 /* Resources */,
+			);
+			path = "WatchKitUI WatchKit App";
+			sourceTree = "<group>";
+		};
+		EEAA10771AB1981700C0FAC7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EEAA10781AB1981700C0FAC7 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EEAA108B1AB1B4F900C0FAC7 /* exo */ = {
+			isa = PBXGroup;
+			children = (
+				EEAA108C1AB1B4F900C0FAC7 /* Exo-Black.otf */,
+				EEAA108D1AB1B4F900C0FAC7 /* Exo-BlackItalic.otf */,
+				EEAA108E1AB1B4F900C0FAC7 /* Exo-Bold.otf */,
+				EEAA108F1AB1B4F900C0FAC7 /* Exo-BoldItalic.otf */,
+				EEAA10901AB1B4F900C0FAC7 /* Exo-ExtraBold.otf */,
+				EEAA10911AB1B4F900C0FAC7 /* Exo-ExtraBoldItalic.otf */,
+				EEAA10921AB1B4F900C0FAC7 /* Exo-ExtraLight.otf */,
+				EEAA10931AB1B4F900C0FAC7 /* Exo-ExtraLightItalic.otf */,
+				EEAA10941AB1B4F900C0FAC7 /* Exo-Italic.otf */,
+				EEAA10951AB1B4F900C0FAC7 /* Exo-Light.otf */,
+				EEAA10961AB1B4F900C0FAC7 /* Exo-LightItalic.otf */,
+				EEAA10971AB1B4F900C0FAC7 /* Exo-Medium.otf */,
+				EEAA10981AB1B4F900C0FAC7 /* Exo-MediumItalic.otf */,
+				EEAA10991AB1B4F900C0FAC7 /* Exo-Regular.otf */,
+				EEAA109A1AB1B4F900C0FAC7 /* Exo-SemiBold.otf */,
+				EEAA109B1AB1B4F900C0FAC7 /* Exo-SemiBoldItalic.otf */,
+				EEAA109C1AB1B4F900C0FAC7 /* Exo-Thin.otf */,
+				EEAA109D1AB1B4F900C0FAC7 /* Exo-ThinItalic.otf */,
+				EEAA109E1AB1B4F900C0FAC7 /* SIL Open Font License.txt */,
+			);
+			name = exo;
+			sourceTree = "<group>";
+		};
+		EEAA10B21AB1B52C00C0FAC7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				EEAA108B1AB1B4F900C0FAC7 /* exo */,
+			);
+			name = Resources;
+			path = exo;
+			sourceTree = "<group>";
+		};
+		EEAA10B31AB1B5B100C0FAC7 /* exo */ = {
+			isa = PBXGroup;
+			children = (
+				EEAA10B41AB1B5B100C0FAC7 /* Exo-Black.otf */,
+				EEAA10B51AB1B5B100C0FAC7 /* Exo-BlackItalic.otf */,
+				EEAA10B61AB1B5B100C0FAC7 /* Exo-Bold.otf */,
+				EEAA10B71AB1B5B100C0FAC7 /* Exo-BoldItalic.otf */,
+				EEAA10B81AB1B5B100C0FAC7 /* Exo-ExtraBold.otf */,
+				EEAA10B91AB1B5B100C0FAC7 /* Exo-ExtraBoldItalic.otf */,
+				EEAA10BA1AB1B5B100C0FAC7 /* Exo-ExtraLight.otf */,
+				EEAA10BB1AB1B5B100C0FAC7 /* Exo-ExtraLightItalic.otf */,
+				EEAA10BC1AB1B5B100C0FAC7 /* Exo-Italic.otf */,
+				EEAA10BD1AB1B5B100C0FAC7 /* Exo-Light.otf */,
+				EEAA10BE1AB1B5B100C0FAC7 /* Exo-LightItalic.otf */,
+				EEAA10BF1AB1B5B100C0FAC7 /* Exo-Medium.otf */,
+				EEAA10C01AB1B5B100C0FAC7 /* Exo-MediumItalic.otf */,
+				EEAA10C11AB1B5B100C0FAC7 /* Exo-Regular.otf */,
+				EEAA10C21AB1B5B100C0FAC7 /* Exo-SemiBold.otf */,
+				EEAA10C31AB1B5B100C0FAC7 /* Exo-SemiBoldItalic.otf */,
+				EEAA10C41AB1B5B100C0FAC7 /* Exo-Thin.otf */,
+				EEAA10C51AB1B5B100C0FAC7 /* Exo-ThinItalic.otf */,
+				EEAA10C61AB1B5B100C0FAC7 /* SIL Open Font License.txt */,
+			);
+			name = exo;
+			sourceTree = "<group>";
+		};
+		EEAA10DA1AB1B60700C0FAC7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				EEAA10B31AB1B5B100C0FAC7 /* exo */,
+			);
+			name = Resources;
+			path = exo;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -122,10 +361,12 @@
 				EEAA103B1AB1979C00C0FAC7 /* Sources */,
 				EEAA103C1AB1979C00C0FAC7 /* Frameworks */,
 				EEAA103D1AB1979C00C0FAC7 /* Resources */,
+				EEAA10871AB1981700C0FAC7 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				EEAA107F1AB1981700C0FAC7 /* PBXTargetDependency */,
 			);
 			name = WatchKitUI;
 			productName = WatchKitUI;
@@ -150,6 +391,39 @@
 			productReference = EEAA10541AB1979C00C0FAC7 /* WatchKitUITests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+		EEAA10671AB1981700C0FAC7 /* WatchKitUI WatchKit Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EEAA10841AB1981700C0FAC7 /* Build configuration list for PBXNativeTarget "WatchKitUI WatchKit Extension" */;
+			buildPhases = (
+				EEAA10641AB1981700C0FAC7 /* Sources */,
+				EEAA10651AB1981700C0FAC7 /* Frameworks */,
+				EEAA10661AB1981700C0FAC7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EEAA10751AB1981700C0FAC7 /* PBXTargetDependency */,
+			);
+			name = "WatchKitUI WatchKit Extension";
+			productName = "WatchKitUI WatchKit Extension";
+			productReference = EEAA10681AB1981700C0FAC7 /* WatchKitUI WatchKit Extension.appex */;
+			productType = "com.apple.product-type.watchkit-extension";
+		};
+		EEAA10711AB1981700C0FAC7 /* WatchKitUI WatchKit App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EEAA10811AB1981700C0FAC7 /* Build configuration list for PBXNativeTarget "WatchKitUI WatchKit App" */;
+			buildPhases = (
+				EEAA10701AB1981700C0FAC7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "WatchKitUI WatchKit App";
+			productName = "WatchKitUI WatchKit App";
+			productReference = EEAA10721AB1981700C0FAC7 /* WatchKitUI WatchKit App.app */;
+			productType = "com.apple.product-type.application.watchapp";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -165,6 +439,12 @@
 					EEAA10531AB1979C00C0FAC7 = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = EEAA103E1AB1979C00C0FAC7;
+					};
+					EEAA10671AB1981700C0FAC7 = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					EEAA10711AB1981700C0FAC7 = {
+						CreatedOnToolsVersion = 6.2;
 					};
 				};
 			};
@@ -183,6 +463,8 @@
 			targets = (
 				EEAA103E1AB1979C00C0FAC7 /* WatchKitUI */,
 				EEAA10531AB1979C00C0FAC7 /* WatchKitUITests */,
+				EEAA10671AB1981700C0FAC7 /* WatchKitUI WatchKit Extension */,
+				EEAA10711AB1981700C0FAC7 /* WatchKitUI WatchKit App */,
 			);
 		};
 /* End PBXProject section */
@@ -202,6 +484,62 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EEAA10661AB1981700C0FAC7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EEAA10B11AB1B4F900C0FAC7 /* SIL Open Font License.txt in Resources */,
+				EEAA10A91AB1B4F900C0FAC7 /* Exo-LightItalic.otf in Resources */,
+				EEAA10AD1AB1B4F900C0FAC7 /* Exo-SemiBold.otf in Resources */,
+				EEAA10AC1AB1B4F900C0FAC7 /* Exo-Regular.otf in Resources */,
+				EEAA10A61AB1B4F900C0FAC7 /* Exo-ExtraLightItalic.otf in Resources */,
+				EEAA106F1AB1981700C0FAC7 /* Images.xcassets in Resources */,
+				EEAA10A21AB1B4F900C0FAC7 /* Exo-BoldItalic.otf in Resources */,
+				EEAA10A41AB1B4F900C0FAC7 /* Exo-ExtraBoldItalic.otf in Resources */,
+				EEAA10A71AB1B4F900C0FAC7 /* Exo-Italic.otf in Resources */,
+				EEAA10AB1AB1B4F900C0FAC7 /* Exo-MediumItalic.otf in Resources */,
+				EEAA10A81AB1B4F900C0FAC7 /* Exo-Light.otf in Resources */,
+				EEAA109F1AB1B4F900C0FAC7 /* Exo-Black.otf in Resources */,
+				EEAA10A11AB1B4F900C0FAC7 /* Exo-Bold.otf in Resources */,
+				EEAA10A31AB1B4F900C0FAC7 /* Exo-ExtraBold.otf in Resources */,
+				EEAA10AF1AB1B4F900C0FAC7 /* Exo-Thin.otf in Resources */,
+				EEAA10A01AB1B4F900C0FAC7 /* Exo-BlackItalic.otf in Resources */,
+				EEAA10B01AB1B4F900C0FAC7 /* Exo-ThinItalic.otf in Resources */,
+				EEAA10AA1AB1B4F900C0FAC7 /* Exo-Medium.otf in Resources */,
+				EEAA10AE1AB1B4F900C0FAC7 /* Exo-SemiBoldItalic.otf in Resources */,
+				EEAA10A51AB1B4F900C0FAC7 /* Exo-ExtraLight.otf in Resources */,
+				EEAA10731AB1981700C0FAC7 /* WatchKitUI WatchKit App.app in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EEAA10701AB1981700C0FAC7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EEAA10D91AB1B5B100C0FAC7 /* SIL Open Font License.txt in Resources */,
+				EEAA10D11AB1B5B100C0FAC7 /* Exo-LightItalic.otf in Resources */,
+				EEAA10D51AB1B5B100C0FAC7 /* Exo-SemiBold.otf in Resources */,
+				EEAA10D41AB1B5B100C0FAC7 /* Exo-Regular.otf in Resources */,
+				EEAA10CE1AB1B5B100C0FAC7 /* Exo-ExtraLightItalic.otf in Resources */,
+				EEAA107B1AB1981700C0FAC7 /* Interface.storyboard in Resources */,
+				EEAA10CA1AB1B5B100C0FAC7 /* Exo-BoldItalic.otf in Resources */,
+				EEAA10CC1AB1B5B100C0FAC7 /* Exo-ExtraBoldItalic.otf in Resources */,
+				EEAA10CF1AB1B5B100C0FAC7 /* Exo-Italic.otf in Resources */,
+				EEAA10D31AB1B5B100C0FAC7 /* Exo-MediumItalic.otf in Resources */,
+				EEAA10D01AB1B5B100C0FAC7 /* Exo-Light.otf in Resources */,
+				EEAA10C71AB1B5B100C0FAC7 /* Exo-Black.otf in Resources */,
+				EEAA10C91AB1B5B100C0FAC7 /* Exo-Bold.otf in Resources */,
+				EEAA10CB1AB1B5B100C0FAC7 /* Exo-ExtraBold.otf in Resources */,
+				EEAA10D71AB1B5B100C0FAC7 /* Exo-Thin.otf in Resources */,
+				EEAA10C81AB1B5B100C0FAC7 /* Exo-BlackItalic.otf in Resources */,
+				EEAA10D81AB1B5B100C0FAC7 /* Exo-ThinItalic.otf in Resources */,
+				EEAA10D21AB1B5B100C0FAC7 /* Exo-Medium.otf in Resources */,
+				EEAA10D61AB1B5B100C0FAC7 /* Exo-SemiBoldItalic.otf in Resources */,
+				EEAA10CD1AB1B5B100C0FAC7 /* Exo-ExtraLight.otf in Resources */,
+				EEAA107D1AB1981700C0FAC7 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +563,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		EEAA10641AB1981700C0FAC7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EEAA108A1AB19A0D00C0FAC7 /* LabelInterfaceController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -232,6 +578,16 @@
 			isa = PBXTargetDependency;
 			target = EEAA103E1AB1979C00C0FAC7 /* WatchKitUI */;
 			targetProxy = EEAA10551AB1979C00C0FAC7 /* PBXContainerItemProxy */;
+		};
+		EEAA10751AB1981700C0FAC7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EEAA10711AB1981700C0FAC7 /* WatchKitUI WatchKit App */;
+			targetProxy = EEAA10741AB1981700C0FAC7 /* PBXContainerItemProxy */;
+		};
+		EEAA107F1AB1981700C0FAC7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EEAA10671AB1981700C0FAC7 /* WatchKitUI WatchKit Extension */;
+			targetProxy = EEAA107E1AB1981700C0FAC7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -250,6 +606,14 @@
 				EEAA104E1AB1979C00C0FAC7 /* Base */,
 			);
 			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		EEAA10791AB1981700C0FAC7 /* Interface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EEAA107A1AB1981700C0FAC7 /* Base */,
+			);
+			name = Interface.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -336,6 +700,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = WatchKitUI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -346,6 +711,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = WatchKitUI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -386,6 +752,65 @@
 			};
 			name = Release;
 		};
+		EEAA10821AB1981700C0FAC7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				IBSC_MODULE = WatchKitUI_WatchKit_Extension;
+				INFOPLIST_FILE = "WatchKitUI WatchKit App/Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Debug;
+		};
+		EEAA10831AB1981700C0FAC7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				IBSC_MODULE = WatchKitUI_WatchKit_Extension;
+				INFOPLIST_FILE = "WatchKitUI WatchKit App/Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Release;
+		};
+		EEAA10851AB1981700C0FAC7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "WatchKitUI WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "WatchKitUI WatchKit Extension/WatchKitUI WatchKit Extension-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EEAA10861AB1981700C0FAC7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				INFOPLIST_FILE = "WatchKitUI WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "WatchKitUI WatchKit Extension/WatchKitUI WatchKit Extension-Bridging-Header.h";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -411,6 +836,22 @@
 			buildConfigurations = (
 				EEAA10621AB1979C00C0FAC7 /* Debug */,
 				EEAA10631AB1979C00C0FAC7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EEAA10811AB1981700C0FAC7 /* Build configuration list for PBXNativeTarget "WatchKitUI WatchKit App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EEAA10821AB1981700C0FAC7 /* Debug */,
+				EEAA10831AB1981700C0FAC7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EEAA10841AB1981700C0FAC7 /* Build configuration list for PBXNativeTarget "WatchKitUI WatchKit Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EEAA10851AB1981700C0FAC7 /* Debug */,
+				EEAA10861AB1981700C0FAC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
