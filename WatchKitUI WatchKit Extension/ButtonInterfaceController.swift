@@ -17,8 +17,12 @@ class ButtonInterfaceController: WKInterfaceController {
 
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)
-        
-        // Configure interface objects here.
+
+        myButton.setTitle("Don't press!")
+        myButton.setBackgroundImage(nil)
+        let lightGreyColor = UIColor.lightGrayColor()
+        myButton.setBackgroundColor(lightGreyColor)
+
     }
 
     override func willActivate() {
@@ -32,6 +36,15 @@ class ButtonInterfaceController: WKInterfaceController {
     }
 
     @IBAction func buttonPressed() {
+        let blowUpImage = UIImage(named: "BlowUp")
+        myButton.setBackgroundImage(blowUpImage)
+
+        let BoldItalicFont = UIFont(name: "Exo-BlackItalic", size: 15.0)!
+        let attributedDictionary = [NSFontAttributeName : BoldItalicFont]
+        let attributedString = NSAttributedString(string: "Oh ohhhhh", attributes: attributedDictionary)
+
+        myButton.setAttributedTitle(attributedString)
+        myButton.setEnabled(false)
 
     }
 

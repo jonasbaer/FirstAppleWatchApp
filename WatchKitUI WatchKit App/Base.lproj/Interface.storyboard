@@ -27,8 +27,11 @@
             <objects>
                 <controller id="eKp-Mb-PnV" customClass="ButtonInterfaceController" customModule="WatchKitUI_WatchKit_Extension">
                     <items>
-                        <button width="1" height="78.5" alignment="left" title="Press Me" id="cQQ-ed-2LU">
-                            <color key="titleColor" red="0.32776260578062821" green="0.35975799049019674" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <button width="1" height="111.5" alignment="left" title="Press Me" backgroundImage="EasyButton" id="cQQ-ed-2LU">
+                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="font" type="system" pointSize="15"/>
+                            <variation key="device=watch38mm" title="Press Me 38mm"/>
+                            <variation key="device=watch42mm" title="Press Me 42mm"/>
                             <connections>
                                 <action selector="buttonPressed" destination="eKp-Mb-PnV" id="FBk-Tz-tGw"/>
                             </connections>
